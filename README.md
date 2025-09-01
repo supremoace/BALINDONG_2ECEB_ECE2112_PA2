@@ -11,7 +11,7 @@ https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA2/blob/main/README.md#di
 
 ## Programming Assignments
 
-PA2: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112/blob/main/PA2.ipynb
+PA2: [https://github.com/supremoace/BALINDONG_2ECEB_ECE2112/blob/main/PA2.ipynb](https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA2/blob/main/PA2.ipynb)
 
 ### Programming Assignment 2
 #### Normalization Problem
