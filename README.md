@@ -3,9 +3,11 @@
 This repository contains my solutions for Programming Assignment 2.
 
 ## Table of Contents
-Normalization Problem: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112/blob/main/README.md#normalization-problem
+Normalization Problem: 
+https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA2/blob/main/README.md#normalization-problem
 
-Divisible by 3 Problem: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112/blob/main/README.md#divisible-by-3-problem
+Divisible by 3 Problem: 
+https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA2/blob/main/README.md#divisible-by-3-problem
 
 ## Programming Assignments
 
